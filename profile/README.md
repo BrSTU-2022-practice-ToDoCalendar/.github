@@ -5,3 +5,13 @@
 Разработка будет вестись в двух репозиториях:
 - [ToDoCalendar_backend](https://github.com/ToDoCalendar/ToDoCalendar_backend) - Python
 - [ToDoCalendar_frontend](https://github.com/ToDoCalendar/ToDoCalendar_frontend) - JS
+
+## Git Workflow
+
+```
+.       
+`-- main (master)
+    `-- dev
+        |-- Galanin_Pavel
+        `-- Yuriev_Vlad                                                             
+```
