@@ -19,6 +19,6 @@
 
 ### Backend
 
-[![](https://img.shields.io/website?label=API&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fapi)](https://todo-innowise.voilalex.com/api)
+[![](https://img.shields.io/website?label=API-v1&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fapi%2Fv1)](https://todo-innowise.voilalex.com/api/v1)
 [![](https://img.shields.io/website?label=Swagger&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fswagger)](https://todo-innowise.voilalex.com/swagger)
 [![](https://img.shields.io/website?label=Redoc&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fredoc)](https://todo-innowise.voilalex.com/redoc)
