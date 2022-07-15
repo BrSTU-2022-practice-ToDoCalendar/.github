@@ -11,8 +11,14 @@
 
 ## Demo
 
-- [Сайт](https://todocalendar.github.io/) - сайт на GitHub pages
-- [Сайт](https://todo-innowise.voilalex.com) - фронтэнд сайт на хостинге по урлу `/`
-- [API](https://todo-innowise.voilalex.com/api/) - бэкэнд эндпоинт для запросов `/api`
-- [Swagger](https://todo-innowise.voilalex.com/swagger/) - бэкэнд документация по урлу `/swagger` 
-- [Redoc](https://todo-innowise.voilalex.com/redoc/) - бэкэнд документация по урле `/redoc`
+### Frontend
+
+[![](https://img.shields.io/website?label=github-pages&url=https%3A%2F%2Ftodocalendar.github.io)](https://todocalendar.github.io)
+[![](https://img.shields.io/website?label=hosting-is-work&url=https%3A%2F%2Fvoilalex.com)](https://voilalex.com)
+[![](https://img.shields.io/website?label=site-on-hosting&url=https%3A%2F%2Ftodo-innowise.voilalex.com)](https://todo-innowise.voilalex.com)
+
+### Backend
+
+[![](https://img.shields.io/website?label=API&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fapi)](https://todo-innowise.voilalex.com/api)
+[![](https://img.shields.io/website?label=Swagger&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fswagger)](https://todo-innowise.voilalex.com/swagger)
+[![](https://img.shields.io/website?label=Redoc&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fredoc)](https://todo-innowise.voilalex.com/redoc)
