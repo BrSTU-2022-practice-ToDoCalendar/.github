@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ToDoCalendar/ToDoCalendar_frontend/dev/public/logo192.png" alt="" />
+</p>
+
+## ToDoCalendar
 
 Эта организация для технологической практики.
 
