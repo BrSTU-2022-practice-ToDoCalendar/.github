@@ -17,12 +17,46 @@
 
 ### Frontend
 
-[![](https://img.shields.io/website?label=github-pages&url=https%3A%2F%2Ftodocalendar.github.io)](https://todocalendar.github.io)
-[![](https://img.shields.io/website?label=hosting-is-work&url=https%3A%2F%2Fvoilalex.com)](https://voilalex.com)
-[![](https://img.shields.io/website?label=site-on-hosting&url=https%3A%2F%2Ftodo-innowise.voilalex.com)](https://todo-innowise.voilalex.com)
+- <a href="https://todocalendar.github.io">
+  <img
+    src="https://img.shields.io/website?label=github-pages&url=https%3A%2F%2Ftodocalendar.github.io"
+    alt="GH pages not work."
+  />
+</a>
+
+- <a href="https://voilalex.com">
+  <img
+    src="https://img.shields.io/website?label=hosting-is-work&url=https%3A%2F%2Fvoilalex.com"
+    alt="Hosting not work."
+  />
+</a>
+
+- <a href="https://todo-innowise.voilalex.com">
+  <img
+    src="https://img.shields.io/website?label=site-on-hosting&url=https%3A%2F%2Ftodo-innowise.voilalex.com"
+    alt="Frontend site not work on hosting."
+  />
+</a>
 
 ### Backend
 
-[![](https://img.shields.io/website?label=API-v1&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fapi%2Fv1)](https://todo-innowise.voilalex.com/api/v1)
-[![](https://img.shields.io/website?label=Swagger&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fswagger)](https://todo-innowise.voilalex.com/swagger)
-[![](https://img.shields.io/website?label=Redoc&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fredoc)](https://todo-innowise.voilalex.com/redoc)
+- <a href="https://todo-innowise.voilalex.com/api/v1">
+  <img
+    src="https://img.shields.io/website?label=API-v1&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fapi%2Fv1"
+    alt="Backend not work on hosting."
+  />
+</a>
+
+- <a href="https://todo-innowise.voilalex.com/swagger">
+  <img
+    src="https://img.shields.io/website?label=Swagger&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fswagger"
+    alt="Swagger not work on hosting."
+  />
+</a>
+
+- <a href="https://todo-innowise.voilalex.com/redoc">
+  <img
+    src="https://img.shields.io/website?label=Redoc&url=https%3A%2F%2Ftodo-innowise.voilalex.com%2Fredoc"
+    alt="Redoc not work on hosting."
+  />
+</a>
